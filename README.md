@@ -27,6 +27,7 @@ Execute the programs and publish them.
 ## CODE
 ```
 
+
 <html>
     <title>Mycity</title>
     <body bgcolor="White">
@@ -45,7 +46,9 @@ Execute the programs and publish them.
        
     </body>
 </html>
-    
+
+
+
 
 <html>
     <h1 align="center">
@@ -87,6 +90,7 @@ Execute the programs and publish them.
 </html>
 
 
+
 <html>
     <h1 align="center">
         <font face="Times New Roman" color=" dark green" size="6">Tirupathi</font>
@@ -104,6 +108,7 @@ Execute the programs and publish them.
         </p>
     </body>
 </html>
+
 
 
 <html>
@@ -125,6 +130,7 @@ Execute the programs and publish them.
 </html>
 
 
+
 <html>
     <h1 align="center">
         <font face="Times New Roman" color=" dark green" size="6">Tirupathi</font>
@@ -144,6 +150,7 @@ Execute the programs and publish them.
         </p>
     </body>
 </html>
+
 ```
 
 ## OUTPUT
